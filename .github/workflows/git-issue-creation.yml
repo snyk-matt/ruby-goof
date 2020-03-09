@@ -11,7 +11,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB }}
           GITHUB_SHA: ${{ github.sha }}
-          GITHUB_OWNER: 'snyk-matt'
+          #GITHUB_OWNER: 'snyk-matt'
           GITHUB_REPOSITORY: 'ruby-goof'
           GITHUB_ISSUE_TITLE: 'Issue title'
           GITHUB_ISSUE_BODY: 'Issue body'
