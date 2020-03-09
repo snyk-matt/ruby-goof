@@ -27,4 +27,4 @@ jobs:
         assignees: snyk-matt
         # Number of the milestone to assign the issue to
         # The name of the file to use as the issue template
-        filename: ISSUE_TEMPLATE.md
+        filename: .github/testfile.md
