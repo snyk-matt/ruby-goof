@@ -12,6 +12,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB }}
           GITHUB_SHA: ${{ github.sha }}
           GITHUB_OWNER: 'matt-brown'
-          GITHUB_REPOSITORY	: 'github-issue-creation'
+          GITHUB_REPOSITORY: 'github-issue-creation'
           GITHUB_ISSUE_TITLE: 'Issue title'
           GITHUB_ISSUE_BODY: 'Issue body'
