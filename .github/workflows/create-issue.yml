@@ -20,6 +20,8 @@ jobs:
         
     - name: Create an issue
       uses: JasonEtco/create-an-issue@v2.3.1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB }}
       with:
         # GitHub handle of the user(s) to assign the issue (comma-separated)
         assignees: snyk-matt
