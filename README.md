@@ -37,5 +37,3 @@ For more information about using Ruby on Heroku, see these Dev Center articles:
 - [Ruby on Heroku](https://devcenter.heroku.com/categories/ruby)
 - [Getting Started with Ruby on Heroku](https://devcenter.heroku.com/articles/getting-started-with-ruby)
 - [Heroku Ruby Support](https://devcenter.heroku.com/articles/ruby-support)
-
-[![Easy "Ruby on Rails CI"](https://github.com/jasnow/ruby-goof/actions/workflows/rubyonrails.yml/badge.svg)](https://github.com/jasnow/ruby-goof/actions/workflows/rubyonrails.yml)
